@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning react native, flutter, machine learning, and web security
+- 📫 How to reach me: fahmiahmad@tutanota.com
 
 <!--
 **khofesh/khofesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
