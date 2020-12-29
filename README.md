@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning react native, flutter, machine learning, and web security
+- 🌱 I’m currently learning web assembly, flutter, machine learning, and web security
 - 🐧 Arch linux and Fedora
 - 📫 How to reach me: fahmiahmad@tutanota.com
 
