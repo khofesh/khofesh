@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 Currently learning: web assembly, flutter, kotlin, solidity, and web security
+- 🌱 Currently learning: web assembly, flutter, kotlin, solidity, and cardano
 - 🐧 Arch linux and Fedora
 - languages: Javascript, Typescript, C, Dart, Golang and Python.
 - 📫 How to reach me: fahmiahmad@tutanota.com
