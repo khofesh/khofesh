@@ -2,7 +2,6 @@
 - 🌱 Currently learning: web assembly, flutter, kotlin, and solidity
 - 🐧 Arch linux and Fedora
 - languages: Javascript, Typescript, C, Golang and Python.
-- 📫 How to reach me: fahmiahmad@tutanota.com
 
 <!--
 **khofesh/khofesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
