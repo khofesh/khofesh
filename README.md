@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img src="unnamed.png" alt="Buildspace NFT" style="width:400px;"/>](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/1445/)
+[<img src="unnamed.png" alt="Buildspace NFT" style="width:200px;"/>](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/1445/)
+[<img src="nft-deneb.png" alt="Buildspace: Build a Web3 App: Mint Your Own NFT collection" style="width:200px;"/>](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/2084/)
