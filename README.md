@@ -19,5 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img src="unnamed.png" alt="Buildspace NFT" style="width:300px;"/>](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/1445/)
-[<img src="nft-deneb.png" alt="Buildspace: Build a Web3 App: Mint Your Own NFT collection" style="width:300px;"/>](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/2084/)
+### NFT from Buildspace 
+[Buildspace: Build a Solana App | Cohort Alkes | #184](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/2822/)
+
+[Buildspace: Build a Web3 App: Mint Your Own NFT collection | Cohort Deneb | #39](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/2084/)
+
+[Buildspace: Intro to Web3 | Cohort Felis | #11](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/1445/)
