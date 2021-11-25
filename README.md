@@ -2,7 +2,7 @@
 - 🌱 Currently learning: web assembly, flutter, kotlin, and solidity
 - 🐧 Arch linux and Fedora
 - languages: Javascript, Typescript, C, Golang and Python.
-- containerization: docker and kubernetes
+- else: GCP, docker and kubernetes
 
 <!--
 **khofesh/khofesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
