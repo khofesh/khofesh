@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🌱 Currently learning: aws, solidity, & java
+- 🌱 Currently learning: aws, web3, & C + GTK
 - 🐧 Arch linux and Fedora
 - languages: Javascript, Typescript, C#, Golang and Python.
-- else: GCP, docker and kubernetes
+- else: AWS, GCP, docker and kubernetes
 
 <!--
 **khofesh/khofesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
