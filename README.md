@@ -1,8 +1,7 @@
 ### Hi there 👋
-- 🌱 Currently learning: aws, web3, & GTK+
-- 🌱 Currently relearning: C
+- 🌱 Currently learning: aws, web3, & embedded devices
 - 🐧 Arch linux and Fedora
-- languages: Typescript, C#, Golang and Python.
+- languages: C, Typescript, C#, Golang and Python.
 - else: AWS, GCP, docker and kubernetes
 
 <!--
