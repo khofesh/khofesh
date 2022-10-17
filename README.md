@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 Currently learning: aws, web3, assembly & embedded devices (AVR, STM32, and Raspberry Pi Pico)
+- 🌱 Currently learning: aws, web3, assembly & microcontroller (AVR, STM32, and Raspberry Pi Pico)
 - 🐧 Arch linux and Fedora
 - languages: C, Typescript, C#, Golang and Python.
 - else: AWS, GCP, docker and kubernetes
