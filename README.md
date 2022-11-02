@@ -34,3 +34,5 @@ learning these
 https://github.com/khofesh/nucleo-f446re
 
 https://github.com/khofesh/raspberry-pi-pico-w
+
+<img src="photo1667403888.jpeg" alt="mcu" width="300"/>
