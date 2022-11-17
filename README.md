@@ -35,4 +35,6 @@ https://github.com/khofesh/nucleo-f446re
 
 https://github.com/khofesh/raspberry-pi-pico-w
 
+https://github.com/khofesh/stm32f429
+
 <img src="photo1667403888.jpeg" alt="mcu" width="300"/>
