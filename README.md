@@ -37,6 +37,7 @@ learning these
 - https://github.com/khofesh/esp32-c3
 - https://github.com/khofesh/esp32-s3
 - https://github.com/khofesh/esp32-e
+- https://github.com/khofesh/microbit-v2
 - https://github.com/khofesh/beaglebone-black
 
 <img src="photo1667403888.jpeg" alt="mcu" width="300"/>
