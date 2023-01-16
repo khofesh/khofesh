@@ -28,13 +28,15 @@ Here are some ideas to get you started:
 
 [Buildspace: Intro to Web3 | Cohort Felis | #11](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/1445/)
 
-### MCU
+### MCU & embedded linux
 learning these
 
-https://github.com/khofesh/nucleo-f446re
-
-https://github.com/khofesh/raspberry-pi-pico-w
-
-https://github.com/khofesh/stm32f429
+- https://github.com/khofesh/nucleo-f446re
+- https://github.com/khofesh/raspberry-pi-pico-w
+- https://github.com/khofesh/stm32f429
+- https://github.com/khofesh/esp32-c3
+- https://github.com/khofesh/esp32-s3
+- https://github.com/khofesh/esp32-e
+- https://github.com/khofesh/beaglebone-black
 
 <img src="photo1667403888.jpeg" alt="mcu" width="300"/>
