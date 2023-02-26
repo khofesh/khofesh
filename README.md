@@ -39,5 +39,6 @@ learning these
 - https://github.com/khofesh/esp32-e
 - https://github.com/khofesh/microbit-v2
 - https://github.com/khofesh/beaglebone-black
+- https://github.com/khofesh/arduino-nano-ble-sense
 
 <img src="photo1667403888.jpeg" alt="mcu" width="300"/>
