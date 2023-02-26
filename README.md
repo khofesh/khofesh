@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [Buildspace: Intro to Web3 | Cohort Felis | #11](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/1445/)
 
-### MCU & embedded linux
+### MCUs & MPUs
 learning these
 
 - https://github.com/khofesh/nucleo-f446re
@@ -39,6 +39,6 @@ learning these
 - https://github.com/khofesh/esp32-e
 - https://github.com/khofesh/microbit-v2
 - https://github.com/khofesh/beaglebone-black
-- https://github.com/khofesh/arduino-nano-ble-sense
+- https://github.com/khofesh/arduino-nano-ble-sense (rev 2)
 
 <img src="photo1667403888.jpeg" alt="mcu" width="300"/>
