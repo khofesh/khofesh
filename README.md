@@ -40,5 +40,6 @@ learning these
 - https://github.com/khofesh/microbit-v2
 - https://github.com/khofesh/beaglebone-black
 - https://github.com/khofesh/arduino-nano-ble-sense (rev 2)
+- https://github.com/khofesh/stm32mp157f
 
 <img src="photo1667403888.jpeg" alt="mcu" width="300"/>
