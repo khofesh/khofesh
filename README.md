@@ -43,3 +43,8 @@ learning these
 - https://github.com/khofesh/stm32mp157f
 
 <img src="photo1667403888.jpeg" alt="mcu" width="300"/>
+
+### FPGA
+
+- https://github.com/khofesh/fpga-icestick
+- https://github.com/khofesh/fpga-go-board
