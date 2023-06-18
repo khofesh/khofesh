@@ -34,13 +34,16 @@ learning these
 - https://github.com/khofesh/nucleo-f446re
 - https://github.com/khofesh/raspberry-pi-pico-w
 - https://github.com/khofesh/stm32f429
-- https://github.com/khofesh/esp32-c3
-- https://github.com/khofesh/esp32-s3
-- https://github.com/khofesh/esp32-e
+- https://github.com/khofesh/udemy-mcu3
 - https://github.com/khofesh/microbit-v2
 - https://github.com/khofesh/beaglebone-black
 - https://github.com/khofesh/arduino-nano-ble-sense (rev 2)
 - https://github.com/khofesh/stm32mp157f
+
+less interests:
+- https://github.com/khofesh/esp32-c3
+- https://github.com/khofesh/esp32-s3
+- https://github.com/khofesh/esp32-e
 
 <img src="photo1667403888.jpeg" alt="mcu" width="300"/>
 
