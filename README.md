@@ -29,21 +29,33 @@ Here are some ideas to get you started:
 [Buildspace: Intro to Web3 | Cohort Felis | #11](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/1445/)
 
 ### MCUs & MPUs
-learning these
 
+#### STM32
+
+- https://github.com/khofesh/bare-metal-nucleo-l432kc
 - https://github.com/khofesh/nucleo-f446re
-- https://github.com/khofesh/raspberry-pi-pico-w
 - https://github.com/khofesh/stm32f429
 - https://github.com/khofesh/udemy-mcu3
-- https://github.com/khofesh/microbit-v2
-- https://github.com/khofesh/beaglebone-black
-- https://github.com/khofesh/arduino-nano-ble-sense (rev 2)
 - https://github.com/khofesh/stm32mp157f
 
-less interests:
+#### Raspberry Pi
+
+- https://github.com/khofesh/raspberry-pi-pico-w
+
+
+#### ESP32
+
 - https://github.com/khofesh/esp32-c3
 - https://github.com/khofesh/esp32-s3
 - https://github.com/khofesh/esp32-e
+
+#### Beaglebone
+- https://github.com/khofesh/beaglebone-black
+- https://github.com/khofesh/beaglebone-ai-64
+
+#### Other
+- https://github.com/khofesh/arduino-nano-ble-sense (rev 2)
+- https://github.com/khofesh/microbit-v2
 
 <img src="photo1667403888.jpeg" alt="mcu" width="300"/>
 
