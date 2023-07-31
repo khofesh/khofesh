@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - https://github.com/khofesh/stm32f429
 - https://github.com/khofesh/udemy-mcu3
 - https://github.com/khofesh/stm32mp157f
+- https://github.com/khofesh/bare-metal-stm32l4
 
 #### Raspberry Pi
 
