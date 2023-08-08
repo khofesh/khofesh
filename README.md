@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 - https://github.com/khofesh/stm32mp157f
 - https://github.com/khofesh/bare-metal-stm32l4
 - https://github.com/khofesh/bare-metal-nucleo-l432kc
+- https://github.com/khofesh/bare-metal-nucleo-f072rb
 - https://github.com/khofesh/stm32-keyestudio-others
 
 #### Raspberry Pi
