@@ -32,12 +32,13 @@ Here are some ideas to get you started:
 
 #### STM32
 
-- https://github.com/khofesh/bare-metal-nucleo-l432kc
 - https://github.com/khofesh/nucleo-f446re
 - https://github.com/khofesh/stm32f429
 - https://github.com/khofesh/udemy-mcu3
 - https://github.com/khofesh/stm32mp157f
 - https://github.com/khofesh/bare-metal-stm32l4
+- https://github.com/khofesh/bare-metal-nucleo-l432kc
+- https://github.com/khofesh/stm32-keyestudio-others
 
 #### Raspberry Pi
 
