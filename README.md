@@ -62,6 +62,8 @@ Here are some ideas to get you started:
 
 <img src="photo1667403888.jpeg" alt="mcu" width="300"/>
 
+<img src="photo1691673042.jpeg" alt="mcu" width="300"/>
+
 ### FPGA
 
 - https://github.com/khofesh/fpga-icestick
