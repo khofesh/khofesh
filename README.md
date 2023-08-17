@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 #### STM32
 
+> https://wiki.st.com/stm32mcu/wiki/Category:Getting_started_with_STM32_:_STM32_step_by_step
+
 - https://github.com/khofesh/nucleo-f446re
 - https://github.com/khofesh/stm32f429
 - https://github.com/khofesh/udemy-mcu3
