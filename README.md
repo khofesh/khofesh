@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 #### STM32
 
 > https://wiki.st.com/stm32mcu/wiki/Category:Getting_started_with_STM32_:_STM32_step_by_step
+> https://wiki.st.com/stm32mpu/wiki/How_to_get_started_with_STM32CubeIDE_from_scratch
 
 - https://github.com/khofesh/nucleo-f446re
 - https://github.com/khofesh/stm32f429
