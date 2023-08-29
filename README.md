@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 - https://github.com/khofesh/bare-metal-nucleo-l432kc
 - https://github.com/khofesh/bare-metal-nucleo-f072rb
 - https://github.com/khofesh/bare-metal-stm32f3
+- https://github.com/khofesh/bare-metal-stm32f407
 - https://github.com/khofesh/bare-metal-stm32f7
 - https://github.com/khofesh/stm32-keyestudio-others
 
