@@ -75,4 +75,4 @@ Here are some ideas to get you started:
 - https://github.com/khofesh/fpga-icestick
 - https://github.com/khofesh/fpga-go-board
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khofesh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khofesh)](https://github.com/anuraghazra/github-readme-stats)
