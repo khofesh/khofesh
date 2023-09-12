@@ -75,4 +75,7 @@ Here are some ideas to get you started:
 - https://github.com/khofesh/fpga-icestick
 - https://github.com/khofesh/fpga-go-board
 
+### SIMD
+- https://github.com/khofesh/simd-cpp
+
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khofesh)](https://github.com/anuraghazra/github-readme-stats) --->
