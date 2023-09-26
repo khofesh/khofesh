@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 - https://github.com/khofesh/beaglebone-black
 - https://github.com/khofesh/beaglebone-ai-64
 
+#### WCH
+- https://github.com/khofesh/wch
+
 #### Other
 - https://github.com/khofesh/arduino-nano-ble-sense (rev 2)
 - https://github.com/khofesh/microbit-v2
