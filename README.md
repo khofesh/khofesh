@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 #### Other
 - https://github.com/khofesh/arduino-nano-ble-sense (rev 2)
 - https://github.com/khofesh/microbit-v2
+- https://github.com/khofesh/linux-kernel-module-programming
 
 <img src="photo1667403888.jpeg" alt="mcu" width="300"/>
 
