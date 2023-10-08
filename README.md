@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 #### Raspberry Pi
 
 - https://github.com/khofesh/raspberry-pi-pico-w
+- https://github.com/khofesh/raspberry-pi-pico-misc
 - https://github.com/khofesh/iot-in-c
 
 
