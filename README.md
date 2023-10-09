@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 
 - https://github.com/khofesh/raspberry-pi-pico-w
 - https://github.com/khofesh/raspberry-pi-pico-misc
+- https://github.com/khofesh/rp2040-freertos-template
 - https://github.com/khofesh/iot-in-c
 
 
