@@ -70,6 +70,9 @@ Here are some ideas to get you started:
 #### WCH
 - https://github.com/khofesh/wch
 
+#### Nordic Semiconductor
+- https://github.com/khofesh/nordic-devacademy/
+
 #### Other
 - https://github.com/khofesh/arduino-nano-ble-sense (rev 2)
 - https://github.com/khofesh/microbit-v2
