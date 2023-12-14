@@ -85,6 +85,7 @@ Here are some ideas to get you started:
 
 ### C and C++
 - https://github.com/khofesh/anything-c-cpp
+- https://github.com/khofesh/operating-systems
 
 <details>
     <summary>show images of dev boards</summary>
