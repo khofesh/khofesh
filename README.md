@@ -87,12 +87,16 @@ Here are some ideas to get you started:
 - https://github.com/khofesh/anything-c-cpp
 - https://github.com/khofesh/operating-systems
 
+
+### Boards
 <details>
     <summary>show images of dev boards</summary>
     
   <img src="photo1667403888.jpeg" alt="mcu" width="300"/>
 
   <img src="photo1691673042.jpeg" alt="mcu" width="300"/>
+  
+  <img src="nordic-semiconductor-board.jpeg" alt="mcu" width="300"/>
 </details>
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khofesh)](https://github.com/anuraghazra/github-readme-stats) --->
