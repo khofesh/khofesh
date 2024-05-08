@@ -100,4 +100,4 @@ Here are some ideas to get you started:
 </details>
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khofesh)](https://github.com/anuraghazra/github-readme-stats) --->
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khofesh&hide=jupyter%20notebook,html&langs_count=3)
+<!--- ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khofesh&hide=jupyter%20notebook,html&langs_count=3) --->
